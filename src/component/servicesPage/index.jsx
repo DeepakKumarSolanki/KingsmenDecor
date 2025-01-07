@@ -1,8 +1,8 @@
 import React from "react";
 import PageHomeBanner from "../common/PageHomeBanner";
 import FirstSection from "./FirstSection";
-import KitchenInterior from "../Price-Calculator/KitchenInterior/MainInterior";
-import HomeInterior from "../Price-Calculator/WardrobeInterior";
+// import KitchenInterior from "../Price-Calculator/KitchenInterior/MainInterior";
+// import HomeInterior from "../Price-Calculator/WardrobeInterior";
 import HomeInteriorsCarousel from "./HomeInteriorsCarousel";
 import CommercialInteriorsCarousel from "./CommercialInteriorsCarousel";
 import InteriorDesignDragDrop from "./InteriorDesignDragDrop";
@@ -31,7 +31,7 @@ const ServicePage = () => {
       </div>
       <FirstSection />
       <HomeInteriorsCarousel />
-      <KitchenInterior />
+      {/* <KitchenInterior /> */}
       {/* <InteriorDesignDragDrop/> */}
       {/* <MainInterior /> */}
       {/* <CommercialInteriorsCarousel /> */}
