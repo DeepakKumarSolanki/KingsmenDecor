@@ -5,11 +5,16 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   build: {
-    assetsInlineLimit: 0, // Ensures assets are not inlined as base64
+    assetsInlineLimit: 4096, // Limit inlining assets to 4KB
     outDir: 'dist', // Output directory
     assetsDir: 'assets', // Directory for static assets inside dist
     target: 'esnext', // Optimize for modern environments
     chunkSizeWarningLimit: 1000, // Avoid large chunk warnings
+    rollupOptions: {
+      output: {
+        sourcemap: true, // Enable sourcemaps for debugging
+      },
+    },
   },
   server: {
     port: process.env.PORT || 5173, // Bind to Render's dynamic port or fallback to 5173

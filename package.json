@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "vite"
+   "start": "node --max-old-space-size=4096 node_modules/.bin/vite"
+
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
