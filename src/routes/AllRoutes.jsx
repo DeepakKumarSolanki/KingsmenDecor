@@ -22,33 +22,33 @@ import AllProjects from "../component/portfolio/AllProjects";
 import BlogLayout from "../component/blog/index";
 import ModularJourney from "../component/modularJourney/index";
 import HowItWorks from "../component/howItWorks/index";
-import HomeInterior from "../component/Price-Calculator/HomeInterior/index";
-import FirstPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/FirstPageForm";
-import SecondPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/SecondPageForm";
-import ThirdPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/ThirdPageForm";
-import FinalPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/FinalPageForm";
+// import HomeInterior from "../component/Price-Calculator/HomeInterior/index";
+// import FirstPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/FirstPageForm";
+// import SecondPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/SecondPageForm";
+// import ThirdPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/ThirdPageForm";
+// import FinalPageForm from "../component/Price-Calculator/HomeInterior/PriceEstimationForm/FinalPageForm";
 
-import KitchenInterior from "../component/Price-Calculator/KitchenInterior/index";
-import FirstPageKitchen from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/FirstPageKitchen";
-import LshapedPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Lshaped/LshapedPage2";
-import LshapedPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Lshaped/LshapedPage3";
-import LshapedFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Lshaped/LshapedFinalPage";
-import UshapedPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Ushaped/UshapedPage2";
-import UshapedPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Ushaped/UshapedPage3";
-import UshapedFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Ushaped/UshapedFinalPage";
-import StraightPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Straight/StraightPage2";
-import StraightPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Straight/StraightPage3";
-import StraightFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Straight/StraightFinalPage";
-import ParallelPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Parallel/ParallelPage2";
-import ParallelPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Parallel/ParallelPage3";
-import ParallelFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Parallel/ParallelFinalPage";
+// import KitchenInterior from "../component/Price-Calculator/KitchenInterior/index";
+// import FirstPageKitchen from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/FirstPageKitchen";
+// import LshapedPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Lshaped/LshapedPage2";
+// import LshapedPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Lshaped/LshapedPage3";
+// import LshapedFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Lshaped/LshapedFinalPage";
+// import UshapedPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Ushaped/UshapedPage2";
+// import UshapedPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Ushaped/UshapedPage3";
+// import UshapedFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Ushaped/UshapedFinalPage";
+// import StraightPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Straight/StraightPage2";
+// import StraightPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Straight/StraightPage3";
+// import StraightFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Straight/StraightFinalPage";
+// import ParallelPage2 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Parallel/ParallelPage2";
+// import ParallelPage3 from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Parallel/ParallelPage3";
+// import ParallelFinalPage from "../component/Price-Calculator/KitchenInterior/PriceEstimationKitchen/Parallel/ParallelFinalPage";
 
-import WardrobeInterior from "../component/Price-Calculator/WardrobeInterior/index";
-import WardrobePage1 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WardrobePage1";
-import WardrobePage2 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WordrobePage2";
-import WardrobePage3 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WordrobePage3";
-import WardrobePage4 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WordrobePage4";
-import WardrobeFinalPage from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WardrobeFinalPage";
+// import WardrobeInterior from "../component/Price-Calculator/WardrobeInterior/index";
+// import WardrobePage1 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WardrobePage1";
+// import WardrobePage2 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WordrobePage2";
+// import WardrobePage3 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WordrobePage3";
+// import WardrobePage4 from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WordrobePage4";
+// import WardrobeFinalPage from "../component/Price-Calculator/WardrobeInterior/PriceEstimationWardrobeForm/WardrobeFinalPage";
 import OurManagement from "../component/aboutUs/management/OurManagement";
 import Finishes from "../component/finishes";
 import WoodFinishes from "../component/finishes/WoodFinishes";
@@ -102,7 +102,7 @@ const AllRoutes = () => {
         {/* HomeInterior */}
         {/* <Route path="/homeinterior" element={<HomeInterior />} />
         <Route path="/homeinterior/bhk" element={<FirstPageForm />} /> */}
-        <Route
+        {/* <Route
           path="/homeinterior/bhk/rooms-design"
           element={<SecondPageForm />}
         />
@@ -115,11 +115,11 @@ const AllRoutes = () => {
           element={<FinalPageForm />}
         />
 
-        {/* KitchenInterior */}
+        
         <Route path="/kitcheninterior" element={<KitchenInterior />} />
         <Route path="/kitcheninterior/layout" element={<FirstPageKitchen />} />
 
-        {/* L-shaped */}
+        L-shaped
         <Route
           path="/kitcheninterior/layout/lshape-size"
           element={<LshapedPage2 />}
@@ -133,7 +133,7 @@ const AllRoutes = () => {
           element={<LshapedFinalPage />}
         />
 
-        {/* Ushaped Shape */}
+        Ushaped Shape
         <Route
           path="/kitcheninterior/layout/ushape-size"
           element={<UshapedPage2 />}
@@ -147,7 +147,7 @@ const AllRoutes = () => {
           element={<UshapedFinalPage />}
         />
 
-        {/* Straight shape */}
+        Straight shape
         <Route
           path="/kitcheninterior/layout/straight-size"
           element={<StraightPage2 />}
@@ -161,7 +161,7 @@ const AllRoutes = () => {
           element={<StraightFinalPage />}
         />
 
-        {/* Parallel shape */}
+        Parallel shape
         <Route
           path="/kitcheninterior/layout/parallel-size"
           element={<ParallelPage2 />}
@@ -175,7 +175,7 @@ const AllRoutes = () => {
           element={<ParallelFinalPage />}
         />
 
-        {/* Wardrobe Form Routing */}
+        Wardrobe Form Routing
         <Route path="/wardrobeinterior" element={<WardrobeInterior />} />
         <Route path="/wardrobe-height" element={<WardrobePage1 />} />
         <Route
@@ -193,7 +193,13 @@ const AllRoutes = () => {
         <Route
           path="/wardrobe-height/wardrobe-type/material/accessories/estimate-form"
           element={<WardrobeFinalPage />}
-        />
+        /> */}
+
+
+
+
+
+        
 
         <Route path="/contactUs" element={<ContactUs />} />
 
