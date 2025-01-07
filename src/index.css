@@ -45,7 +45,7 @@ body {
 .eye-icon-container {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 51%;
   transform: translate(-50%, -50%);
   opacity: 0;
   transition: opacity 0.3s ease;
