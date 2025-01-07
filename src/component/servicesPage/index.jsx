@@ -6,7 +6,7 @@ import HomeInterior from "../Price-Calculator/WardrobeInterior";
 import HomeInteriorsCarousel from "./HomeInteriorsCarousel";
 import CommercialInteriorsCarousel from "./CommercialInteriorsCarousel";
 import InteriorDesignDragDrop from "./InteriorDesignDragDrop";
-import MainInterior from "../Price-Calculator/WardrobeInterior/MainInterior";
+// import MainInterior from "../Price-Calculator/WardrobeInterior/MainInterior";
 
 const ServicePage = () => {
   return (
@@ -33,7 +33,7 @@ const ServicePage = () => {
       <HomeInteriorsCarousel />
       <KitchenInterior />
       {/* <InteriorDesignDragDrop/> */}
-      <MainInterior />
+      {/* <MainInterior /> */}
       {/* <CommercialInteriorsCarousel /> */}
     </div>
   );
